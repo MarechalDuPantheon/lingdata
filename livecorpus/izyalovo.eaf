@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-09-21T10:12:45+03:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///C:/Users/sergey1/Desktop/izyalovo.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./izyalovo.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:5c0153b9-99ce-4f5e-af69-25f4c0377573</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">59</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="345700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="348500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="348715"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="350485"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="350600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="352980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="354510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="358720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="360700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="362210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="362900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="371010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="371610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="374300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="375805"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="376195"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="376370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="378100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="379000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="380110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="381380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="383490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="383900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="389800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="390070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="390810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="392995"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="393500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="395390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="401020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="401990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="404790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="405900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="407200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="407980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="416210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="417480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="419610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="422410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="429990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="430800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="432100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="432600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="439240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="440220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="441200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="441480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="443280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="445090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="445890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="448190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="451710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="452900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="458300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="459120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="459800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="461220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="463300"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER ANNOTATOR="MarechalDuPantheon" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@pns1926f" TIER_ID="text@pns1926f">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>вот / это дело было утром //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>как едут на конях верхом // </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>кони здоровые хвосты короткие //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>три лошади / по деревне / от Голочёлова  с лесу и сюда к нам //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>а папа говорит это ж немцы! //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>а папа до этого до армии / до женитьбы раньше ж вы ээ / служили помногу и он служил девять лет в Германии //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>шо его в плен наверно попал / война была //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>вот //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>кой что понимал по немецки //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>курей ловили //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>коровы / ку... куры / гуси //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>гусей ловили перья выдернут / немножко подпалят и в чугун накладут так мясо и ели //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>как цыгане! //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>варвары //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>пчёла были / два домика / заливали водой / а мёд выбирали //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>австрийцы были дюже вредные / хуже немцев //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>ой и австрийцы вредные //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>а у австрийцев было / ще #нрзб# ще #нрзб# / у их на пилотке цвет был / как ромашка / железный приколот //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>ну / это дуже вредные были //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>да вот я помню / на Нижней Изъялово у нас внизу / были в поле #нрзб# немцы //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>и там пришли к девкам //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE> это девки за печку / а за печку там же скамейка и под скамейку они / кочергами тащили их оттуда //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>во гады блять //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>тварины эти были / черти //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>вот так //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>а немцы приезжали коров отбирали / у кого что есть //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>а наши пришли у нас два поросёночка было председатель привёл / и / и двух поросят свои взяли //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
+                TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>подсвинков //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
+                TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>все хороши были / в войну //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="MarechalDuPantheon" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="translation" PARENT_REF="text@pns1926f"
+        PARTICIPANT="@pns1926f" TIER_ID="transl@pns1926f">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a31" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>Da war es am Morgen.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a32" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>Jäh ritten sie zu Pferden.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a33" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>Die Pferde waren groß, ihre Schweife waren kurz.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a34" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>Drei Pferde rannten durch das Dorf von Golotschölow, aus dem Wald und hier zu uns.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a35" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>Und mein Vati sagte: Das sind ja Deutsche!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a36" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>Und mein Vati diente vor dem, vor der Armee, vor der Heirat, früher dientet ihr nämlich lange, und er diente für neun Jahre in Deutschland.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a37" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>Weil er wahrscheinlich in Kriegsgefangenschaft geraten wurde, ein Krieg war damals.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a38" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>Na.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a39" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>Etwas verstand er auf Deutsch.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a40" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>Sie fingen Hähnchen.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a41" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>Wir hatten Kühe, Hähnchen, Gänse.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a42" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>Sie fingen Gänse, zupften ab, versengten die ein bisschen und legten in den Gusseisentopf, so aßen sie Fleisch. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a43" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>Es ist, wie das Zigeunern machen.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a44" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>Barbaren.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a45" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>Es gab Bienen mit zwei Bienenstöcken, sie beschütteten sie mit Wasser, aber nahmen Honig mit.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a46" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>Die Österreicher waren sehr böse, böser als die Deutsche.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a47" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>Oh, die Österreicher waren böse.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a48" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>Und die Österreicher hatten auch #unklar#, auch #unklar#, das eine Farbe hatte, wie es bei einer Kamille gibt, auf ihren Garnisonsmützen, dieses Eisernes wurde angeheftet. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a49" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>Na, sie waren sehr böse.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a50" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>Doch erinnere ich mich, das passierte in der Nizhnyaya in Izyalovo, die befindet sich unten, die Deutsche waren auf dem Feld von #unklar#.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a51" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>Und dort kamen sie zu den Mädchen. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a52" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>Die Mädchen versteckten sich hinter dem Herd, doch war die Bank, und sie versteckten sich unter dieser Bank, die Deutsche zogen sie von dort mit den Feuerhaken hinaus.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a53" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>Verdammte Scheusale.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a54" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>Solche waren diese Schufte, diese Teufel.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a55" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>So war es auch.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a56" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>Und die Deutsche kamen, nahmen Kühe und sonst was, was wer hatte, weg.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a57" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>Und die Unsere kamen, wir hatten zwei Ferkelchen, der Vorsitzende brachte sie, und die Unsere nahmen zwei Ferkel mit.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a58" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>Die Ferkel.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a59" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>Alle verdienten gegenseitig während des Krieges.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="utterance" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="words" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="phonetic_transcription" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="gestures" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
+        CONTROLLED_VOCABULARY_REF="Gesture phases"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_phases" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_meaning" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        CONTROLLED_VOCABULARY_REF="POS" GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="part of speech" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="translation" TIME_ALIGNABLE="false"/>
+    <LOCALE COUNTRY_CODE="RU" LANGUAGE_CODE="ru"/>
+    <LOCALE LANGUAGE_CODE="en" VARIANT="ASCII"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130975-001"
+        LANG_ID="und" LANG_LABEL="undetermined (und)"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+    <CONTROLLED_VOCABULARY CV_ID="POS">
+        <DESCRIPTION LANG_REF="und">Part of Speech</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_907f218f-1300-4621-9b64-b07ad445be9c">
+            <CVE_VALUE DESCRIPTION="noun" LANG_REF="und">n</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_73fd13a9-56dd-4993-9066-9082b8c3ac76">
+            <CVE_VALUE DESCRIPTION="verb" LANG_REF="und">v</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_3133d03f-7416-4e6d-8470-4f6c741d436f">
+            <CVE_VALUE DESCRIPTION="interjection" LANG_REF="und">int</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_9cfc70f5-a855-4a10-b11c-72f5f667c565">
+            <CVE_VALUE DESCRIPTION="adjective" LANG_REF="und">adj</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_419a6ce0-9d06-4ab0-89e8-71abb890a407">
+            <CVE_VALUE DESCRIPTION="pronoun" LANG_REF="und">pro</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_2633025f-5e12-4c63-a3e4-8beed229b90f">
+            <CVE_VALUE DESCRIPTION="determiner" LANG_REF="und">det</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_d9541f19-c4cd-4d77-8716-a14dee82dc63">
+            <CVE_VALUE DESCRIPTION="article" LANG_REF="und">art</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_9d0653c0-c303-4c6b-8f1f-8abfecf168b9">
+            <CVE_VALUE DESCRIPTION="preposition" LANG_REF="und">prep</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_53f87e37-d8a2-44cd-8f50-61cd318c1315">
+            <CVE_VALUE DESCRIPTION="adverb" LANG_REF="und">adv</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_919a9815-33e3-4c58-9fb8-cae49da85cde">
+            <CVE_VALUE DESCRIPTION="conj" LANG_REF="und">con</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_62596ded-3d86-4e05-85c7-78838b782912">
+            <CVE_VALUE DESCRIPTION="demonstrative pronoun" LANG_REF="und">dem</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_af9ad0f0-db0a-4e16-9d9d-e75ccf110528">
+            <CVE_VALUE DESCRIPTION="post" LANG_REF="und">post</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_7121a047-ac83-4d6b-8489-b98240d8d2f4">
+            <CVE_VALUE DESCRIPTION="particle" LANG_REF="und">part</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Gesture phases">
+        <DESCRIPTION LANG_REF="und">Gesture phases</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_f989a3f0-f763-43b1-9bbe-8e9a9dead4db">
+            <CVE_VALUE DESCRIPTION="preparation" LANG_REF="und">preparation</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_9aefb697-8715-48ab-9545-696684115ca2">
+            <CVE_VALUE DESCRIPTION="stroke" LANG_REF="und">stroke</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_f3bfcf5f-0851-40d8-87fd-1572d6a60a24">
+            <CVE_VALUE DESCRIPTION="hold" LANG_REF="und">hold</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_7ba82116-6624-4042-a3d3-0245bc0b243b">
+            <CVE_VALUE DESCRIPTION="partial retraction" LANG_REF="und">part.retraction</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+</ANNOTATION_DOCUMENT>
